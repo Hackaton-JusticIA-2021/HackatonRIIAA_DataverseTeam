@@ -37,3 +37,7 @@ A continuación se presentan los notebooks, cada uno documentado con los pasos p
 * [Detección de firmas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Firmas/Firmas_r1.ipynb)
 * [Detección de sellos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
 * [Detección de tablas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Tablas/TableDetection%20(1).ipynb)
+
+
+##Nota
+La deteccion de firmas se realizo de manera local, por diversos motivos en el campo filename se asigno la imagen en lugar de el nombre de la imagen sin embargo el algoritmo es funcional para los datasets
